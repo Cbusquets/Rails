@@ -1,0 +1,26 @@
+.bashboard-text{
+  color: #fff;
+  margin: auto;
+  margin-bottom: 80px;
+  text-align: center;
+  width: 60%;
+
+  h1{
+    font-size: 40pt;
+    margin-bottom: 50px;
+  }
+  p{
+    font-size: 20pt;
+    font-weight: lighter;
+  }
+}
+
+.dashboard-info{
+  color: #fff;
+  text-align: center;
+
+  .img-circle{
+    height: 140px;
+    width: 140px;
+  }
+}
